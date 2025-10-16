@@ -1,16 +1,16 @@
-# eu_sou_rico
+# 💰 Eu Sou Rico
 
-A new Flutter project.
+Um aplicativo mobile desenvolvido em **Flutter** com o objetivo de testar e praticar os primeiros conceitos de desenvolvimento mobile multiplataforma.
 
-## Getting Started
+## 📱 Sobre o App
+O **Eu Sou Rico** é um aplicativo simples que exibe uma imagem e uma frase de impacto inspirada na ideia de riqueza e sucesso — um clássico projeto introdutório para quem está iniciando no Flutter.
 
-This project is a starting point for a Flutter application.
+## 🚀 Funcionalidades
+- Exibição de imagem centralizada.
+- Texto estilizado com tema de riqueza.
+- Interface responsiva.
+- Estrutura básica de um app Flutter.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Tecnologias Utilizadas
+- [Flutter](https://flutter.dev/)
+- [Dart](https://dart.dev/)
