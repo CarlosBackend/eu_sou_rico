@@ -1,12 +1,19 @@
 import 'package:flutter/material.dart';
 
 void main() {
-  // Meu codigo em flutter
   runApp(
-      MaterialApp(
+    MaterialApp(
       home: Scaffold(
+        backgroundColor: Colors.blueGrey,
         appBar: AppBar(
-          title: Text('Eu sou Celso'),
-        backgroundColor: Colors.red[600],),),
-  ));
+          backgroundColor: Colors.blueGrey[900], // Cor de fundo do AppBar
+          title: Text(
+            'Olá, bem-vindo',
+            style: TextStyle(color: Colors.white), // Cor do texto
+          ),
+        ),
+        body: Center(child: Image(image: NetworkImage('https://wpengine.com/wp-content/uploads/2021/05/optimize-images-1024x681.jpg'))),
+      ),
+    ),
+  );
 }
