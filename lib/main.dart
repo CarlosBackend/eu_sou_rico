@@ -8,7 +8,7 @@ void main() {
         appBar: AppBar(
           backgroundColor: Colors.blueGrey[900], // Cor de fundo do AppBar
           title: Text(
-            'Olá, bem-vindo',
+            'Meu nome é Carlos Henrique',
             style: TextStyle(color: Colors.white), // Cor do texto
           ),
         ),
